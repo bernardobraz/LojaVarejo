@@ -1,0 +1,9 @@
+{
+    "name": "154741/loja-varejo",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
